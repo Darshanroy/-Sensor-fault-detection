@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91845/Desktop/MachineLearning%20Resume%20Projects/Water%20Sensor%20Prediction/mlruns/0/1a7648f24a4d4d0b99e0795ef4a76698/artifacts
+end_time: 1707125241487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7648f24a4d4d0b99e0795ef4a76698
+run_name: chill-shad-210
+run_uuid: 1a7648f24a4d4d0b99e0795ef4a76698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707125236559
+status: 3
+tags: []
+user_id: BAR_DAR_03

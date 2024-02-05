@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91845/Desktop/MachineLearning%20Resume%20Projects/Water%20Sensor%20Prediction/mlruns/0/ac0453859db444e3aa868ec2598cc4fc/artifacts
+end_time: 1707125233922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0453859db444e3aa868ec2598cc4fc
+run_name: selective-donkey-711
+run_uuid: ac0453859db444e3aa868ec2598cc4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707125219512
+status: 3
+tags: []
+user_id: BAR_DAR_03
